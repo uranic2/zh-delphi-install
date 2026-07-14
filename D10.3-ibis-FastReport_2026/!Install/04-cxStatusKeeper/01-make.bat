@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File 01-make.ps1

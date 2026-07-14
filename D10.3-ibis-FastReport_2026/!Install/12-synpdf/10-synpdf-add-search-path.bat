@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File synpdf-add-search-path.ps1

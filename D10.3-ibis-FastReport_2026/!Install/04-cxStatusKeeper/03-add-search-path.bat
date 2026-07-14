@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File add-search-path.ps1
