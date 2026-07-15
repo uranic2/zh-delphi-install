@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File 02-JWAPI-make.ps1
